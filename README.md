@@ -30,6 +30,17 @@
 ![alt teks](7.png)
 
 8. setelah itu buka cmd dan buka file py (python) yang tadi dibuat dan isi data seperti berikut, maka akan tampil seperti ini
+
+   contoh bilangan A lebih Besar
+
 ![alt teks](8.png)
+
+   contoh bilangan B lebih Besar
+
+![alt teks](9.png)
+
+   contoh bilangan C lebih Besar
+
+![alt teks](10.png)
 
 sekian dan terimakasih
