@@ -1,5 +1,4 @@
-# Latihan2
-
+# Labpy1
 ## Macam - Macam Kondisional di Python
 
 1. buka sublime text
